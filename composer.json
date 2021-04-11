@@ -1,0 +1,24 @@
+{
+    "name": "dan8551/yii2-mapquest",
+    "description": "Yii2 MapQuest Bundle",
+    "keywords": ["yii2", "mapquest", "map", "bootstrap4"],
+    "homepage": "https://github.com/dan8551/yii2-mapquest",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Orton",
+            "email": "dan.orton84@gmail.com",
+            "homepage": "https://github.com/dan8551/yii2-mapquest"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "dan8551\\components\\mapquest\\": ""
+        }
+    }
+}
+
